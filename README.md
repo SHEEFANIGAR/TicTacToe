@@ -34,14 +34,17 @@ This project helped me practice **Java fundamentals** like arrays, loops, condit
 
 ```bash
 git clone https://github.com/YourUsername/TicTacToe.git
+```
 2. Navigate to the project folder:
+```bash
 cd TicTacToe
-
+```
 3. Compile the Java file:
+```bash
 javac TicTacToe.java
-
+```
 4. Run the game:
-
+```bash
 java TicTacToe
-
+```
 5. Follow the prompts to play!
